@@ -2,8 +2,14 @@
 
 This project was part of the Computational Music Analysis class at the Georgia Institute of Technology for fall 2017. The report has been written in the [ISMIR 2017](https://ismir2017.smcnus.org/) template.
 
-This project aimed at performing musical instrument classification using sparse coding and a support vector machine on the [Google NSynth dataset](https://magenta.tensorflow.org/datasets/nsynth) which includes acoustic, electronic and synthetic sounds.
+This project aimed at performing musical instrument classification using sparse coding and a support vector machine on the [Google NSynth dataset](https://magenta.tensorflow.org/datasets/nsynth) [1] which includes acoustic, electronic and synthetic sounds.
 
 The detailed algorithm, implementation details, results and discussion can be found in the [final_report.pdf](https://github.com/SomeshGanesh94/Instrument-Classification-using-NSynth/blob/master/final_report.pdf) file. 
 
 Please direct any questions to someshganesh94@gmail.com
+
+
+
+[1] Jesse Engel, Cinjon Resnick, Adam Roberts, Sander Dieleman, Douglas Eck,
+  Karen Simonyan, and Mohammad Norouzi. "Neural Audio Synthesis of Musical Notes
+  with WaveNet Autoencoders." 2017.
